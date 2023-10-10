@@ -1,2 +1,2 @@
-# SiteEcoleprojet
-My First page for coding
+SiteEcoleprojet
+My First page
